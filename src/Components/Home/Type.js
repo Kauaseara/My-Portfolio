@@ -7,7 +7,9 @@ function Type() {
       options={{
         strings: [
           "Full-Stack Web Developer",
-          " PHP & Javascript",
+          "Laravel & React, MERN stack",
+          "Blockchain Developer",
+          "Ethereum, Solana, Smart contract",
           "Quick and Eager Learner",
         ],
         autoStart: true,
