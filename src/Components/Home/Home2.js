@@ -22,7 +22,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              As a Full-stack web Developer, I specialize in{" "}
+              As a Full-stack web and Blockchain Developer, I specialize in{" "}
               <b className="purple">translating figma</b>
               design into user-friendly and mobile-friendly UI, integrating
               <b className="purple"> third party's APIs</b> like Payment Method
