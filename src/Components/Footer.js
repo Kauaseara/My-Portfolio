@@ -19,9 +19,6 @@ function Footer() {
         <Col md="4" className="footer-copywright">
           <h3>Copyright © {year} HM</h3>
         </Col>
-        <Col md="4" className="footer-body">
-          <h3>kauaseara343@gmail.com</h3>
-        </Col>
       </Row>
     </Container>
   );
